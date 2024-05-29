@@ -1,2 +1,2 @@
 # ML_Basic_Projects
-All Simple ML Projects
+Total Projects Done: 7
